@@ -19,9 +19,13 @@ function App() {
       <div>
         <p>If you want to update your deployed page, there is 2 easy steps:</p>
         <ol>
-          <li>Commit your changes to your git</li>
           <li>
-            Run the deploy commend once more <code>npm run deploy</code>
+            <p>Commit your changes to your git</p>
+          </li>
+          <li>
+            <p>
+              Run the deploy commend once more <code>npm run deploy</code>
+            </p>
           </li>
         </ol>
       </div>
