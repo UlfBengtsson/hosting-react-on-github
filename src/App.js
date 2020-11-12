@@ -16,6 +16,15 @@ function App() {
         </a>
         <p>This page was deployed using Github and gh-pages</p>
       </header>
+      <div>
+        <p>If you want to update your deployed page, there is 2 easy steps:</p>
+        <ol>
+          <li>Commit your changes to your git</li>
+          <li>
+            Run the deploy commend once more <code>npm run deploy</code>
+          </li>
+        </ol>
+      </div>
     </div>
   );
 }
